@@ -1,1 +1,5 @@
 Qu'est-ce qu'une branche ?
+
+Les branches permettent de travailler des alternatives, ou des fonctionnalités précises de façon parallèle au projet principal (master).
+
+
