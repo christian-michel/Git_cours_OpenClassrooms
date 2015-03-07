@@ -1,0 +1,12 @@
+A quoi sert la commande git log ?
+
+Nous venons de faire notre premier commit.
+Dans un projet il y a énormément de commit.
+
+Il est parfois nécessaire pour corriger une erreur de retourner en arrière.
+git log, permet d'afficher tous les commit antérieurs avec les commentaires associés.
+
+Par exemple :
+
+
+
