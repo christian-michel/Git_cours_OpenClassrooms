@@ -14,4 +14,4 @@ Dans le flux de produciton habituel, on travaille ainsi :
  1 - git init : initialiser git dans le dossier de travail
  2 - git add : pour ajouter un fichier nouvellement créé ou ajouté à l'indexde Git
  3 - git commit -m "Ajouter votre message ici" : pour faire un commit accompagner d'une description de ce que le commit apporte
- 4 - git commit -am "Votre message ici" : pour les commits suivants sur des fichiers déjà ajutés à l'index de Git
+ 4 - git commit -am "Votre message ici" : pour les commits suivants sur des fichiers déjà ajoutés à l'index de Git
