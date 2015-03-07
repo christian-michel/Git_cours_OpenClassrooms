@@ -1,4 +1,4 @@
 # Git_cours_OpenClassrooms
 Certification Git et GitHub sur OpenClassrooms
 
-Un cours très clair et très facile !
+Git & GitHub - Partie 2 Activité 
